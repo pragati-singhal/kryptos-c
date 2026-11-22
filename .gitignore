@@ -1,0 +1,9 @@
+# Compiled binaries
+kryptos
+kryptos.exe
+*.o
+*.out
+
+# Local encrypted vault & audit output (never commit!)
+kryptos_vault.dat
+kryptos_audit.txt
